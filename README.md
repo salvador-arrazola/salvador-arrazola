@@ -1,3 +1,5 @@
+![Top Banner](/profile/img/profile-banner-top.jpg "Top Banner")
+
 ### Hello! My name is Salvador, 👋
 
 <div align="justify">
@@ -8,7 +10,7 @@ I like to work in environments with Agile methodologies, enjoy teamwork, sharing
 </div>
 <br>
 
-📜 **[Resume](https://github.com/salvador-arrazola/salvador-arrazola/blob/master/profile/resumes/salvador-arrazola-resume-202402.pdf).**
+📜 **[Resume](/profile/resumes/salvador-arrazola-resume.pdf).**
 
 ---
 
@@ -22,7 +24,7 @@ Me gusta trabajar en entornos con metodologías ágiles, disfruto del trabajo en
 </div>
 <br>
 
-📜 **[Curriculum Vitae](https://github.com/salvador-arrazola/salvador-arrazola/blob/master/profile/resumes/salvador-arrazola-cv-202402.pdf).**
+📜 **[Curriculum Vitae](/profile/resumes/salvador-arrazola-cv.pdf).**
 
 ---
 _Last Update: 2024-02-20_
