@@ -108,7 +108,8 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #
-# My Aliases:
+# MY ALIASES:
+#
 # For opening Elementary OS Code:
 # Without root access:
 alias ecode="io.elementary.code"
